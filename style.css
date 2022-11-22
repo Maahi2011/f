@@ -1,0 +1,15 @@
+.heading{
+    width: 80%;
+font-size: 22px;
+}
+.number_off_object{
+    color: rgb(55, 127, 122);
+}
+#camera{
+    border: 2px dashed black;
+    width: 360px;
+    height: 300px;
+}
+body{
+    background-color: rgb(195, 201, 37);
+}
